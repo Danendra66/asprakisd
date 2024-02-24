@@ -1,0 +1,3 @@
+1. Hal yang menjadi masalah saat membuat fitur untuk tamnbah depan, tambah belakang, hapus depan, dan hapus belakang
+
+2. Buatlah suatu aplikasi to do list yang mempunyai fitur, menambah, menghapus dan menampilkan data
